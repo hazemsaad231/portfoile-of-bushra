@@ -136,7 +136,7 @@ export const Flutter = [
         id: 6,
         title: "Toku App",
         img:toku,
-        link:'https://meet.google.com/oef-adze-wfc',
+        link:'https://github.com/Bu4ra-3mer/language_learning.git',
         skills: ["Flutter", "SetState", "assets_audio_player","Local Data"],
         description: "Created a beginner-friendly Japanese learning app with audio-based interaction."
     },
