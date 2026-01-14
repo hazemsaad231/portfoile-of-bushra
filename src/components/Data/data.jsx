@@ -118,7 +118,7 @@ export const Flutter = [
     },
     {
         id: 4,
-        title: "App News",
+        title: "News App",
         img:news,
         link:'https://github.com/Bu4ra-3mer/news_app',
         skills: ["Flutter", "Dio", "RESTful API", "Cached Network Image"],
