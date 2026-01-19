@@ -96,7 +96,7 @@ export const Flutter = [
         id: 1,
         title: "Mersal",
         img:marsal,
-        link:'https://github.com/Bu4ra-3mer/mersal-main.git',
+        link:'https://github.com/Bu4ra-3mer/marsol-main.git',
         skills: ["Flutter", "RESTful APIs", "AI", "Text-to-Speech"],
         description: "An AI-based sign language translation tool providing bidirectional translation with camera input and text-to-speech features."
     },
