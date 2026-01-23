@@ -6,7 +6,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 import { TypeAnimation } from 'react-type-animation';
 import { FaWhatsapp } from "react-icons/fa";
 import { personal } from '../Data/data';
-import profilePhoto from '../../assets/WhatsApp Image 2025-12-22 at 2.06.27 PM.jpeg';
+import profilePhoto from '../../assets/photo_2026-01-15_17-30-45.jpg';
 
 
 const Home = () => {
